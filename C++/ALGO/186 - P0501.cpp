@@ -33,3 +33,7 @@ int main () {
 	printf("%u", multi(x, y));
 	return 0;
 } 
+
+--------------------------------------------------
+鸣谢
+	https://blog.csdn.net/qq_42835910/article/details/86715893
